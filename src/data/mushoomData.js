@@ -4,7 +4,7 @@ const mushrooms = {
     image:
       'https://grocycle.com/wp-content/uploads/2019/04/Growing-Button-Mushrooms.jpg',
     desc:
-      'Button mushrooms are also called baby mushrooms or white mushrooms. Button mushrooms are by far the most common type of mushroom that you’re almost guaranteed to find in grocery stores.',
+      'Button mushrooms are by far the most common type of mushroom that you’re almost guaranteed to find in grocery stores.',
     id: 1,
     isMagic: false,
     isPoisonous: false,
@@ -16,7 +16,7 @@ const mushrooms = {
     image:
       'https://grocycle.com/wp-content/uploads/2019/04/Cremini-Mushrooms.jpg',
     desc:
-      'Cremini mushrooms, also called crimini mushrooms, are actually part of the same species as button mushrooms (Agaricus bisporus), but are a brown variation with a slightly deeper flavour.',
+      'Part of the same species as button mushrooms (Agaricus bisporus), but are a brown variation with a slightly deeper flavour.',
     id: 2,
     isMagic: false,
     isPoisonous: false,
@@ -28,7 +28,7 @@ const mushrooms = {
     image:
       'https://grocycle.com/wp-content/uploads/2019/04/Portobello-Mushrooms.jpg',
     desc:
-      'These mushrooms are much larger than cremini or button mushrooms and have a more meaty texture, but still retain a mild flavor. They have their cap fully open, exposing the dark gills underneath.',
+      'These mushrooms are much larger than cremini or button mushrooms and have a more meaty texture, but still retain a mild flavor.',
     id: 3,
     isMagic: false,
     isPoisonous: false,
@@ -40,7 +40,7 @@ const mushrooms = {
     image:
       'https://grocycle.com/wp-content/uploads/2019/04/Oyster-Mushrooms-2.jpg',
     desc:
-      'If you’ve only ever eaten button mushrooms, then the appearance of oyster mushrooms might be a bit intimidating at first. Don’t worry if you don’t enjoy seafood. They might look like oysters, but they don’t taste like them.',
+      'They might look like oysters, but they don’t taste like them.',
     id: 4,
     isMagic: false,
     isPoisonous: false,
@@ -88,7 +88,7 @@ const mushrooms = {
     image:
       'https://grocycle.com/wp-content/uploads/2019/04/Enoki-Mushrooms.jpg',
     desc:
-      'These mushrooms are most commonly used in Asian cooking. They come in large clusters of tiny mushrooms with very long stems and small caps. They go nicely in soups, especially ramen.',
+      'These mushrooms are most commonly used in Asian cooking. They come in large clusters of tiny mushrooms with very long stems and small caps.',
     id: 8,
     isMagic: false,
     isPoisonous: false,
@@ -111,7 +111,7 @@ const mushrooms = {
     image:
       'https://grocycle.com/wp-content/uploads/2019/04/Shiitake-Mushrooms.jpg',
     desc:
-      'Shiitake mushrooms have a meaty texture much like portobellos. They have a more smoky, earthy flavor when cooked. Shiitake mushrooms are most commonly sold dried.',
+      'Shiitake mushrooms have a meaty texture much like portobellos. They have a more smoky, earthy flavor when cooked.',
     id: 10,
     isMagic: false,
     isPoisonous: false,
@@ -143,7 +143,7 @@ const mushrooms = {
     name: 'Porcini',
     image: 'https://www.almagourmet.com/store/images/fresh-porcini-s.jpg',
     desc:
-      'They’ve got a distinctive taste that some people compare to sourdough bread, with slightly creamy and nutty flavors. They can get very large, up to 10 inches across! But most are harvested much smaller, around 1 inch in size.',
+      'They’ve got a distinctive taste that some people compare to sourdough bread, with slightly creamy and nutty flavors.',
     id: 13,
     isMagic: false,
     isPoisonous: false,
@@ -164,7 +164,7 @@ const mushrooms = {
     image:
       'https://cdn.britannica.com/s:800x1000/79/145379-050-4461FF66/Death-cap-mushroom.jpg',
     desc:
-      'Perhaps the deadliest of all mushrooms, the death cap is found throughout Europe and closely resembles edible straw mushrooms and caesar’s mushrooms. Consumption can lead to coma and death in more than 50 percent of the incidents',
+      'Perhaps the deadliest of all mushrooms, consumption can lead to coma and death in more than 50 percent of the incidents',
     id: 15,
     isMagic: false,
     isPoisonous: false,
@@ -175,7 +175,7 @@ const mushrooms = {
     image:
       'https://cdn.britannica.com/s:800x1000/66/180666-050-FED69BBD/webcaps-Europe-Ingestion-mushrooms-symptoms.jpg',
     desc:
-      'These mushrooms feature a poison known as orellanin, which initially causes symptoms similar to the common flu. Orellanin has an insidiously long latency period and may take 2 days to 3 weeks to cause symptoms, often leading to a misdiagnosis.',
+      'These mushrooms feature a poison known as orellanin, which initially causes symptoms similar to the common flu.',
     id: 16,
     isMagic: false,
     isPoisonous: true,
@@ -218,7 +218,7 @@ const mushrooms = {
     image:
       'https://4.bp.blogspot.com/-2S5ODlbBMsA/WLK0NDbL7vI/AAAAAAAACug/3xcsodP_KqAN63qXFgr6TTiSbrCqmWNrACPcBGAYYCw/s640/blogger-image-99202412.jpg',
     desc:
-      'They aren’t a very attractive mushroom to look at, but their flavor is quite sought after. People describe the flavor as rich and smoky. When allowed to dry, their flavor even takes on hints of black truffle.',
+      'People describe the flavor as rich and smoky. When allowed to dry, their flavor even takes on hints of black truffle.',
     id: 20,
     isMagic: false,
     isPoisonous: false,
