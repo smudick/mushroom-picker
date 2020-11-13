@@ -112,7 +112,7 @@ const mushrooms = {
       'https://grocycle.com/wp-content/uploads/2019/04/Shiitake-Mushrooms.jpg',
     desc:
       'Shiitake mushrooms have a meaty texture much like portobellos. They have a more smoky, earthy flavor when cooked. Shiitake mushrooms are most commonly sold dried.',
-    id: 9,
+    id: 10,
     isMagic: false,
     isPoisonous: false,
     isDeadly: false,
@@ -123,7 +123,7 @@ const mushrooms = {
       'https://grocycle.com/wp-content/uploads/2019/04/reishi-mushrooms-4.jpg',
     desc:
       'The reishi or lingzhi mushroom is often considered the gold standard when it comes to medicinal mushrooms.',
-    id: 9,
+    id: 11,
     isMagic: false,
     isPoisonous: false,
     isDeadly: false,
@@ -134,7 +134,7 @@ const mushrooms = {
       'https://grocycle.com/wp-content/uploads/2020/03/How-To-Forage-For-Puffball-Mushrooms.jpg',
     desc:
       'Puffball mushrooms can grow to huge sizes. Up to 20 kg or 44 lbs in weight! However, they’re picked while still small and immature for culinary use.',
-    id: 9,
+    id: 12,
     isMagic: false,
     isPoisonous: false,
     isDeadly: false,
@@ -144,7 +144,7 @@ const mushrooms = {
     image: 'https://www.almagourmet.com/store/images/fresh-porcini-s.jpg',
     desc:
       'They’ve got a distinctive taste that some people compare to sourdough bread, with slightly creamy and nutty flavors. They can get very large, up to 10 inches across! But most are harvested much smaller, around 1 inch in size.',
-    id: 9,
+    id: 13,
     isMagic: false,
     isPoisonous: false,
     isDeadly: false,
@@ -154,7 +154,7 @@ const mushrooms = {
     image:
       'https://i.pinimg.com/originals/97/0b/cf/970bcf1060e6999b9ac188fa3ebc7de7.png',
     desc: "You eat one of these it's game over bub",
-    id: 9,
+    id: 14,
     isMagic: false,
     isPoisonous: true,
     isDeadly: false,
@@ -165,7 +165,7 @@ const mushrooms = {
       'https://cdn.britannica.com/s:800x1000/79/145379-050-4461FF66/Death-cap-mushroom.jpg',
     desc:
       'Perhaps the deadliest of all mushrooms, the death cap is found throughout Europe and closely resembles edible straw mushrooms and caesar’s mushrooms. Consumption can lead to coma and death in more than 50 percent of the incidents',
-    id: 9,
+    id: 15,
     isMagic: false,
     isPoisonous: false,
     isDeadly: true,
@@ -176,7 +176,7 @@ const mushrooms = {
       'https://cdn.britannica.com/s:800x1000/66/180666-050-FED69BBD/webcaps-Europe-Ingestion-mushrooms-symptoms.jpg',
     desc:
       'These mushrooms feature a poison known as orellanin, which initially causes symptoms similar to the common flu. Orellanin has an insidiously long latency period and may take 2 days to 3 weeks to cause symptoms, often leading to a misdiagnosis.',
-    id: 9,
+    id: 16,
     isMagic: false,
     isPoisonous: true,
     isDeadly: false,
@@ -187,7 +187,7 @@ const mushrooms = {
       'https://cdn.britannica.com/s:800x1000/08/5508-004-E3F081AB/angel.jpg',
     desc:
       'Yeah these are bad, they could kill you, but honestly what a dramatic name.',
-    id: 9,
+    id: 17,
     isMagic: false,
     isPoisonous: true,
     isDeadly: false,
@@ -197,7 +197,7 @@ const mushrooms = {
     image:
       'https://post.healthline.com/wp-content/uploads/sites/3/2020/02/308850_2200-1200x628.jpg',
     desc: 'Pretty trippy dude',
-    id: 9,
+    id: 18,
     isMagic: true,
     isPoisonous: false,
     isDeadly: false,
@@ -208,7 +208,7 @@ const mushrooms = {
       'https://themushroomforager.com/wp-content/uploads/2012/09/IMG_2135-1024x682.jpg',
     desc:
       'They have a sweet, nutty taste and offer a crunchy texture if cooked right. They can be sauteed, pickled, or simmered in milk or stock.',
-    id: 9,
+    id: 19,
     isMagic: false,
     isPoisonous: false,
     isDeadly: false,
@@ -219,7 +219,7 @@ const mushrooms = {
       'https://4.bp.blogspot.com/-2S5ODlbBMsA/WLK0NDbL7vI/AAAAAAAACug/3xcsodP_KqAN63qXFgr6TTiSbrCqmWNrACPcBGAYYCw/s640/blogger-image-99202412.jpg',
     desc:
       'They aren’t a very attractive mushroom to look at, but their flavor is quite sought after. People describe the flavor as rich and smoky. When allowed to dry, their flavor even takes on hints of black truffle.',
-    id: 9,
+    id: 20,
     isMagic: false,
     isPoisonous: false,
     isDeadly: false,
