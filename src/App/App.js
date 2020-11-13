@@ -1,12 +1,17 @@
 import React from 'react';
 import '../styles/App.scss';
+import mushroomData from '../data/mushoomData';
+import Forest from './components/Forest';
 
 class App extends React.Component {
+  state = {
+    mushrooms: mushroomData,
+  }
+
   render() {
     return (
       <div className="App">
-        <h2>INSIDE APP COMPONENT</h2>
-        <button className="btn btn-info">I am a button</button>
+        <Forest mushrooms={this.state.mushrooms} />
       </div>
     );
   }

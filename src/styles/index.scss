@@ -1,7 +1,10 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
-@import 'variables';
 
-body {
-  background-color: $favColor;
+.forest {
+  background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20191115/pngtree-repeating-trees-background-image_322389.jpg');
+}
+
+.mushroom-img {
+  height: 180px;
 }
