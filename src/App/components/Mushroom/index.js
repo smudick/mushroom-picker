@@ -11,8 +11,8 @@ class Mushroom extends Component {
         <Card>
           <CardImg top width='100%' className='mushroom-img' src={image} alt={name} />
           <CardBody>
-            <CardTitle tag='h5'>{name}</CardTitle>
-            <CardText>{desc}.</CardText>
+            <CardTitle tag='h4'>{name}</CardTitle>
+            <CardText>{desc}</CardText>
           </CardBody>
         </Card>
       </div>

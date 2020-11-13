@@ -153,7 +153,7 @@ const mushrooms = {
     name: 'Poison Mushroom',
     image:
       'https://i.pinimg.com/originals/97/0b/cf/970bcf1060e6999b9ac188fa3ebc7de7.png',
-    desc: "You eat one of these it's game over bub",
+    desc: "You eat one of these it's game over bub. Unless you have an extra life.",
     id: 14,
     isMagic: false,
     isPoisonous: true,
